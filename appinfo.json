@@ -1,0 +1,10 @@
+{
+    "id": "com.palm.subscribe.enyo.webos",
+    "version": "0.0.1",
+    "vendor": "The Example Org.",
+    "type": "web",
+    "main": "index.html",
+    "title": "Subscribe enyo-webos",
+    "icon": "icon.png",
+    "uiRevision": 2
+}
